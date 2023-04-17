@@ -13,8 +13,8 @@ desired_cap_Audi = {
 
 driver = webdriver.Remote('http://localhost:4723/wd/hub', desired_cap_Audi)
 
-email = "light.bell0356@fastmail.com"
-passowrd = "kaut.poot.zin"
+email = ""
+passowrd = ""
 
 
 click_lets_go(driver)
